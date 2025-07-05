@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Mahesh!
 
-I'm a student at IIT Tirupati. I am currently B.Tech third year in Electrical Engineering (EE). I am passinate about domains where there is intersection of Software and Hardware concepts.
+I'm a student at IIT Tirupati, currently B.Tech third year in Electrical Engineering (EE). I am passinate about domains where there is intersection of Software and Hardware concepts.
 
-## 🚀 What I'm Currently Working On / Learning
+## 🚀 What I'm Currently Learning
 
 * Currently aiming about exploring different areas of my core branch.
 * Trying to understand concepts of Computer Architecture and Operating Systems.
