@@ -1,86 +1,50 @@
 # 👋 Hi there! I'm Mahesh!
 
-I'm a student at IIT Tirupati. I am currently B.Tech third year in Electrical Engineering (EE). I am passinate about domains where there is intersection of Software and Hardware concepts like Computer Architecture, Embedded systems, Operating Systems. 
+I'm a student at IIT Tirupati. I am currently B.Tech third year in Electrical Engineering (EE). I am passinate about domains where there is intersection of Software and Hardware concepts.
 
 ## 🚀 What I'm Currently Working On / Learning
 
-* Currently diving deep into **[Specific Technology/Framework]** to build [Type of project, e.g., a real-time chat application].
-
-* Exploring **[New Concept/Language]** to expand my knowledge in [Area, e.g., functional programming, cloud infrastructure].
-
-* Contributing to [Name of a project or open-source initiative, if applicable].
+* Currently aiming about exploring different areas of my core branch.
+* Trying to understand concepts of Computer Architecture and Operating Systems.
 
 ## 🌱 My Skills & Technologies
 
-Here are some of the tools and technologies I enjoy working with:
+Here are some of the tools and technologies I am familiar with:
 
 **Languages:**
 
-<!-- Add more languages you know -->
+Verilog HDL, MATLAB, C/C++, python, javascript
 
-**Frameworks & Libraries:**
+**Tools:**
+ModelSim, Vivado, LTspice, LabVIEW, TINA
 
-<!-- Add more frameworks/libraries -->
 
-**Databases:**
+## 💡 What I know
 
-<!-- Add more databases -->
+My main area is Electrical, Electronics and Communication related subjects which are in my current course. Apart from curriculam, I have basic idea in Computer Architecture, Data Structures and Algorithms. Basics of Machine Learning. 
 
-**Tools & Platforms:**
+## ✨ Projects
 
-<!-- Add more tools/platforms -->
+Here are my projects:
 
-## 💡 What I Do
+* ### [Single Cycle processor](https://github.com/uma899/SingleCycle_RISCV_processor)
 
-My primary focus is on **[Your Main Area of Expertise, e.g., building robust and scalable backend APIs]** and **[Another Area, e.g., creating intuitive user interfaces]**. I enjoy solving complex problems and transforming ideas into functional and user-friendly applications. I'm also passionate about [e.g., clean code, performance optimization, continuous learning].
+  This project helps to understand basic building blocks of a real world processer used in modern computers. This is a very basic version.
+  *Technologies used:* `verilog`
 
-## ✨ Projects I'm Proud Of
-
-Here are a few projects that showcase my work:
-
-* ### [Project Name 1](https://www.google.com/search?q=https://github.com/your-username/project-repo-1)
-
-  A brief description of Project 1 (1-2 sentences). Highlight its purpose and what it achieves.
-  *Technologies used:* `React`, `Node.js`, `MongoDB`, `Express`
-
-* ### [Project Name 2](https://www.google.com/search?q=https://github.com/your-username/project-repo-2)
-
-  A brief description of Project 2 (1-2 sentences). What problem did it solve?
-  *Technologies used:* `Python`, `Django`, `PostgreSQL`
-
-* ### [Project Name 3](https://www.google.com/search?q=https://github.com/your-username/project-repo-3)
-
-  A brief description of Project 3 (1-2 sentences). What was interesting about this project?
-  *Technologies used:* `JavaScript`, `HTML`, `CSS`
 
 ## 🤝 How to Reach Me / Connect
 
-Let's connect! I'm always open to discussing new ideas, collaborations, or just chatting about tech.
+I'm always open to discussing new ideas, collaborations, or just chatting about tech.
 
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.google.com/search?q=https://www.linkedin.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/)
-
-* **Twitter (X):** [Your Twitter Profile URL (if applicable)](https://www.google.com/search?q=https://twitter.com/your-twitter-handle)
-
-* **Personal Website/Portfolio:** [Your Website URL (if you have one)](https://www.your-website.com)
-
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [koyalada2006@gmail.com](mailto:koyalada2006@gmail.com)
 
 
 
-## 💬 Fun Fact / Interests
+## 💬 Interests
 
-When I'm not coding, you can find me [mention a hobby, e.g., hiking, reading sci-fi novels, playing board games, experimenting with new recipes]. I believe in continuous learning and exploring new horizons, both in tech and in life!
+I am also intrested in web and app development. I do small (really small) projects. I just know basics of web dev like HTML, CSS and JS. Apart from them, I know using JS framework, react and express. I have also experimented with django and flask. I rely on MongoDB, MySQL for databases (just know what they are :) ). 
+Here are few of them:
+* [Blogger](https://uma899.github.io/blogWeb/)  - It takes time to load as I used onrender to deploy backend - [view project](https://github.com/uma899/blogWeb.git)
+[Timer](https://uma899.github.io/timer/)
 
-<!--
-**Instructions for you:**
-
-1. **Replace all bracketed placeholders `[like this]`** with your actual information.
-
-2. **Update the badge links** for "My Skills & Technologies" to reflect the exact technologies you use. You can find many more badges at [shields.io](https://shields.io/) or [devicon.dev](https://devicon.dev/).
-
-3. **Link your projects** under "Projects I'm Proud Of" to their respective GitHub repositories or live demos.
-
-4. **Replace `YOUR_GITHUB_USERNAME`** in the GitHub Stats section with your actual GitHub username to display your stats.
-
-5. **Remove or add sections** as you see fit. This is a template; make it your own!
-   -->
