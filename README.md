@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mahesh!
 
-I'm a student at IIT Tirupati, currently B.Tech third year in Electrical Engineering (EE). I am passinate about domains where there is intersection of Software and Hardware concepts.
+I'm a student at IIT Tirupati, currently B.Tech third year in Electrical Engineering (EE). I am passionate about domains where there is intersection of Software and Hardware concepts.
 
 ## 🚀 What I'm Currently Learning
 
@@ -21,7 +21,19 @@ ModelSim, Vivado, LTspice, LabVIEW, TINA
 
 ## 💡 What I know
 
-My main area is Electrical, Electronics and Communication related subjects which are in my current course. Apart from curriculam, I have basic idea in Computer Architecture, Data Structures and Algorithms. Basics of Machine Learning. 
+My main area is Electrical, Electronics and Communication related subjects which are in my current course. Apart from curriculam, I have basic idea in Computer Architecture, Data Structures and Algorithms, Shell scripting. Basics of Machine Learning. 
+
+### Core courses:
+*  Electrical Circuits and Networks
+*  Digital Systems
+*  Semiconductor Devices
+*  Analog Circuits
+*  Digital Signal Processing
+*  Communication Systems
+*  Electronic Instrumentation and Measurement
+
+### Others:
+* Maths: Linear algebra, Calculus, Probability, Statistics, Numerical Methods
 
 ## ✨ Projects
 
