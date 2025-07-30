@@ -44,6 +44,11 @@ Here are my projects:
   This project helps to understand basic building blocks of a real world processer used in modern computers. This is a very basic version.
   *Technologies used:* `verilog`
 
+* ### [Pipelined Multiplier](https://github.com/uma899/32_bit_pipelined_mul)
+
+  This aims to make a pipelined multiplier with fixed number of bits (32 bit). It can be further used in accelerators, DSP chips etc.
+  *Technologies used:* `verilog`,  `vivado `
+
 
 ## 🤝 How to Reach Me / Connect
 
