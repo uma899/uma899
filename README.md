@@ -52,8 +52,6 @@ Here are my projects:
 
 ## 🤝 How to Reach Me / Connect
 
-I'm always open to discussing new ideas, collaborations, or just chatting about tech.
-
 * **Email:** [koyalada2006@gmail.com](mailto:koyalada2006@gmail.com)
 
 
