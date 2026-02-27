@@ -60,10 +60,5 @@ Here are my projects:
 
 ## 💬 Interests
 
-I am also intrested in web and app development. I do small (really small) projects. I just know basics of web dev like HTML, CSS and JS. Apart from them, I know using JS framework, react and express. I have also experimented with django and flask. I rely on MongoDB, MySQL for databases (just know what they are :) ). For app dev, I know 'what is' React Native.
+I am also intrested in web and app development. I do small (really small) projects. I just know basics of web dev like HTML, CSS and JS. Apart from them, I know using JS frameworks, react and express. I also tried using django and flask. I rely on MongoDB, MySQL for databases (just know what they are :) ). For app dev, I just know 'what is' React Native.
 
-## Other Things
-Sometimes, I also do different things like:
-* [Imageeditor!](https://github.com/uma899/ImageEditor.git) and [AudioEditor](https://github.com/uma899/AudioEditor.git)
-* [Some basic python use cases](https://github.com/uma899/py_proj.git)
-* I also love to do photoediting and videoediting even though i don't have notable works.
